@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:rotten_flesh"
+		},
+		{
+			"item": "mcrx:solventvial"
+		},
+		{
+			"item": "minecraft:poppy"
+		},
+		{
+			"item": "mcrx:gelcap"
+		}
+	],
+	"result": {
+		"item": "mcrx:apomorphine",
+		"count": 1
+	}
+}

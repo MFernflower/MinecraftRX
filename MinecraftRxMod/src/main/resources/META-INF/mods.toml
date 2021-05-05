@@ -1,0 +1,16 @@
+license="See github"
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+[[mods]]
+
+modId="mcrx"
+
+version="Alpha v2"
+
+displayName="Minecraft Rx"
+
+description="Pharmacognosy in Minecraft"
+

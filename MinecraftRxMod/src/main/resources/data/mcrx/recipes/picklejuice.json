@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mcrx:solventvial"
+        },
+        {
+            "item": "mcrx:gelcap"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        }
+    ],
+    "result": {
+        "item": "mcrx:picklepill",
+        "count": 1
+    }
+}
