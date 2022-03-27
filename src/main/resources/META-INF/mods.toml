@@ -8,7 +8,7 @@ loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft versio
 
 modId="mcrx"
 
-version="Alpha v2"
+version="1.16 Proof Of Concept"
 
 displayName="Minecraft Rx"
 
